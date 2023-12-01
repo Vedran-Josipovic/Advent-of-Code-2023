@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfd15fd0-56fd-4daf-9d75-e2056820c149" name="Changes" comment="" />
+    <list default="true" id="dfd15fd0-56fd-4daf-9d75-e2056820c149" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/data" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/data" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +22,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2YvkE8mTZvPfWv3nWmx0ZOsB7F9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "21",
     "node.js.detected.package.eslint": "true",
@@ -57,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701413327023</updated>
       <workItem from="1701413328469" duration="626000" />
+      <workItem from="1701414395678" duration="1736000" />
     </task>
     <servers />
   </component>
