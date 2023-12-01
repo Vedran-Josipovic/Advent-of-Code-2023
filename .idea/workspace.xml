@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfd15fd0-56fd-4daf-9d75-e2056820c149" name="Changes" comment="Day-1: Task-1 [Completed]">
+    <list default="true" id="dfd15fd0-56fd-4daf-9d75-e2056820c149" name="Changes" comment="Day-1: Task-2 [Completed]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701413327023</updated>
       <workItem from="1701413328469" duration="626000" />
-      <workItem from="1701414395678" duration="5234000" />
+      <workItem from="1701414395678" duration="5329000" />
     </task>
     <task id="LOCAL−00001" summary="Day-1: Task-1 [Completed]">
       <option name="closed" value="true" />
@@ -73,7 +72,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1701416233560</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Day-1: Task-2 [Completed]">
+      <option name="closed" value="true" />
+      <created>1701419653739</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1701419653739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day-1: Task-1 [Completed]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-1: Task-1 [Completed]" />
+    <MESSAGE value="Day-1: Task-2 [Completed]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-1: Task-2 [Completed]" />
   </component>
 </project>
