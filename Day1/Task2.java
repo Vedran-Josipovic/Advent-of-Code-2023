@@ -18,7 +18,7 @@ public class Task2 {
         while (scanner.hasNext()) {
             String line = scanner.nextLine();
 
-            Map<Integer, Integer> wordStartAndLengthMap = new TreeMap<>();
+            Map<Integer, Integer> startAndLength = new TreeMap<>();
             List<String> stringValues = List.of("one", "two", "three", "four", "five", "six", "seven", "eight", "nine");
             List<String> digitValues = List.of("1", "2", "3", "4", "5", "6", "7", "8", "9");
             Map<String, Integer> mapper = new HashMap<>();
@@ -35,24 +35,24 @@ public class Task2 {
                 int index = 0;
                 while (index != -1) {
                     if ((index = line.indexOf(e, index)) != -1) {
-                        wordStartAndLengthMap.put(index, e.length());
+                        startAndLength.put(index, e.length());
                         index += e.length();
                     }
                 }
             }
 
             List<String> filteredValues = new ArrayList<>();
-            for (var e : wordStartAndLengthMap.entrySet()) {
+            for (var e : startAndLength.entrySet()) {
                 Integer start = e.getKey();
                 Integer end = e.getValue();
                 filteredValues.add(line.substring(start, start + end));
             }
-            List<Integer> integerValues = filteredValues.stream()
+            List<Integer> intValues = filteredValues.stream()
                     .map(mapper::get)
                     .collect(Collectors.toList());
 
-            sum += (integerValues.getFirst() * 10) + integerValues.getLast();
-            System.out.println(integerValues);
+            sum += (intValues.getFirst() * 10) + intValues.getLast();
+            System.out.println(intValues);
         }
         System.out.println("Sum: " + sum);
     }
