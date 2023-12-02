@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfd15fd0-56fd-4daf-9d75-e2056820c149" name="Changes" comment="Day-1: Task-2 [Completed]">
-      <change beforePath="$PROJECT_DIR$/Day1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "C:/Users/Vedran/Desktop/AdventOfCode2023/AdventOfCode2023",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,7 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1701413327023</updated>
       <workItem from="1701413328469" duration="626000" />
-      <workItem from="1701414395678" duration="5576000" />
+      <workItem from="1701414395678" duration="6197000" />
+      <workItem from="1701462705343" duration="30000" />
+      <workItem from="1701507132361" duration="4660000" />
     </task>
     <task id="LOCAL−00001" summary="Day-1: Task-1 [Completed]">
       <option name="closed" value="true" />
@@ -86,7 +91,14 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1701419958301</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Day-1: Task-2 [Completed]">
+      <option name="closed" value="true" />
+      <created>1701419987062</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1701419987062</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
