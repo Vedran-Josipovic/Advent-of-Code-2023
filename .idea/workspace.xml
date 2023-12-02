@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfd15fd0-56fd-4daf-9d75-e2056820c149" name="Changes" comment="Day-1: Task-2 [Completed]">
-      <change afterPath="$PROJECT_DIR$/Day2/data" afterDir="false" />
+    <list default="true" id="dfd15fd0-56fd-4daf-9d75-e2056820c149" name="Changes" comment="Day-2: Task-1 [Completed]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/data" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/data" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1701413328469" duration="626000" />
       <workItem from="1701414395678" duration="6197000" />
       <workItem from="1701462705343" duration="30000" />
-      <workItem from="1701507132361" duration="4660000" />
+      <workItem from="1701507132361" duration="5937000" />
     </task>
     <task id="LOCAL−00001" summary="Day-1: Task-1 [Completed]">
       <option name="closed" value="true" />
@@ -98,7 +98,14 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1701419987062</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Day-2: Task-1 [Completed]">
+      <option name="closed" value="true" />
+      <created>1701511842930</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1701511842930</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day-1: Task-1 [Completed]" />
     <MESSAGE value="Day-1: Task-2 [Completed]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-1: Task-2 [Completed]" />
+    <MESSAGE value="Day-2: Task-1 [Completed]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-2: Task-1 [Completed]" />
   </component>
 </project>
