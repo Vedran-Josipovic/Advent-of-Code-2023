@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfd15fd0-56fd-4daf-9d75-e2056820c149" name="Changes" comment="Day-2: Task-1 [Completed]">
+    <list default="true" id="dfd15fd0-56fd-4daf-9d75-e2056820c149" name="Changes" comment="Day-2: Task-2 [Completed]">
+      <change afterPath="$PROJECT_DIR$/Day3/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2/data" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/data" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,25 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "C:/Users/Vedran/Desktop/AdventOfCode2023/AdventOfCode2023",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.rainbow.brackets.indent",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vedran/Desktop/AdventOfCode2023/AdventOfCode2023&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.rainbow.brackets.indent&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Vedran\Desktop\AdventOfCode2023\AdventOfCode2023\Day-1" />
@@ -68,7 +69,8 @@
       <workItem from="1701413328469" duration="626000" />
       <workItem from="1701414395678" duration="6197000" />
       <workItem from="1701462705343" duration="30000" />
-      <workItem from="1701507132361" duration="5937000" />
+      <workItem from="1701507132361" duration="6219000" />
+      <workItem from="1701595957704" duration="5488000" />
     </task>
     <task id="LOCAL−00001" summary="Day-1: Task-1 [Completed]">
       <option name="closed" value="true" />
@@ -105,7 +107,14 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1701511842930</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Day-2: Task-2 [Completed]">
+      <option name="closed" value="true" />
+      <created>1701513118144</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1701513118144</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +124,7 @@
     <MESSAGE value="Day-1: Task-1 [Completed]" />
     <MESSAGE value="Day-1: Task-2 [Completed]" />
     <MESSAGE value="Day-2: Task-1 [Completed]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-2: Task-1 [Completed]" />
+    <MESSAGE value="Day-2: Task-2 [Completed]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-2: Task-2 [Completed]" />
   </component>
 </project>
